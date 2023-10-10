@@ -91,10 +91,3 @@ https://myaccount.google.com/lesssecureapps
 - When customer/mechanic edit their profile then he/she must login again because their username/password is updated in db.
 ## Credits
 - Tran Anh Tuat ( Admin Dashboard UI )
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
